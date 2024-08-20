@@ -1,7 +1,7 @@
 {
-	"Latest": "6189e81b49a795d24cf1ba87918d6ee3f56134dfcd6d9e53cab0470001130936",
+	"Latest": "ab93f91e4ce5d0a9374fd3ba6b5371fff5de8d79c7bf5a4e3d57f9c9db4ac025",
 	"data": "Thundar2/Thundar2",
-	"ReleaseNotes": "",
+	"ReleaseNotes": "\n\n     Whats New\n     ----- ---\n   *New telemetry version\n   *Few bug fixes\n",
 	"Archive" : "Thundar2/archive",
 	"ArchiveData" : []
 }

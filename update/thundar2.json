@@ -1,7 +1,7 @@
 {
-	"Latest": "ab93f91e4ce5d0a9374fd3ba6b5371fff5de8d79c7bf5a4e3d57f9c9db4ac025",
+	"Latest": "c9c0d515dbbd274aaa4ebe1bddd6c5fa5ad5fd0fc86c081bc829a0e8db1c699e",
 	"data": "Thundar2/Thundar2",
-	"ReleaseNotes": "\n\n     Whats New\n     ----- ---\n   *New telemetry version\n   *Few bug fixes\n",
+	"ReleaseNotes": "\n\n     Whats New\n     ----- ---\n   *Added Quests\n   *Robots\n   *100% More Cory, Asa and Justin\n   *MTG Cards   *A City and a forest\n",
 	"Archive" : "Thundar2/archive",
-	"ArchiveData" : []
+	"ArchiveData" : [["1.0.1","ab93f91e4ce5d0a9374fd3ba6b5371fff5de8d79c7bf5a4e3d57f9c9db4ac025"]]
 }

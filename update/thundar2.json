@@ -1,7 +1,7 @@
 {
-	"Latest": "981633608314371982639bd4919cbd83168cb7c2a89f80c78e37342a309076b8",
+	"Latest": "ddcf65050db2ac2282bffb67aeb67cd6c4b4b9b47ebe63c54ab062d5b84557dd",
 	"data": "Thundar2/Thundar2",
-	"ReleaseNotes": "\n\n     Whats New\n     ----- ---\n   *Added Quests\n   *Robots\n   *100% More Cory, Asa and Justin\n   *MTG Cards   *A City and a forest\n",
+	"ReleaseNotes": "\n\n     Whats New\n     ----- ---\n   *Bigger and Better City\n   *BFG, Chickens, and Spoons\n   *100% Richand and Joel\n   *More MTG Cards\n   *Justin's Soup mini-game\n",
 	"Archive" : "Thundar2/archive",
-	"ArchiveData" : [["1.0.1","ab93f91e4ce5d0a9374fd3ba6b5371fff5de8d79c7bf5a4e3d57f9c9db4ac025"]]
+	"ArchiveData" : [["1.1.0","981633608314371982639bd4919cbd83168cb7c2a89f80c78e37342a309076b8"],["1.0.1","ab93f91e4ce5d0a9374fd3ba6b5371fff5de8d79c7bf5a4e3d57f9c9db4ac025"]]
 }

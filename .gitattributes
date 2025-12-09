@@ -1,0 +1,5 @@
+Install/Install.exe filter=lfs diff=lfs merge=lfs -text
+update/Launcher/1.1.0 filter=lfs diff=lfs merge=lfs -text
+update/Thundar2/Thundar2 filter=lfs diff=lfs merge=lfs -text
+update/Thundar2/archive/1.0.1 filter=lfs diff=lfs merge=lfs -text
+update/Thundar2/archive/1.2.0 filter=lfs diff=lfs merge=lfs -text
